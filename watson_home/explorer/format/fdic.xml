@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facetDictionary lang="en">
+	<entry mtime="0">
+		<facet path="$.user.facet1" />
+		<word mtime="0">
+			<surface val="Test" />
+		</word>
+	</entry>
+</facetDictionary>

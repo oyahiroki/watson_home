@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<atml xmlns="urn:atami">
+	<docset>
+		<doc id="1_00001">
+			<title>PCの起動のしかたを教えてください。</title>
+			<itemset>
+				<item name=".date" val="20060105" />
+				<item name=".usr/1" val="会社員" />
+				<item name=".usr/2" val="35" />
+			</itemset>
+			<textlist>
+				<text name="コメント1">ＰＣの起動のしかたを教えてください。</text>
+				<text name="コメント2">ＰＣの電源スイッチを押してください。</text>
+				<text name="コメント3">ＰＣの電源スイッチを押してください。</text>
+			</textlist>
+		</doc>
+	</docset>
+</atml>

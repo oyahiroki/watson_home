@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mi category="$.user.pattern" value="今日はいい天気です">
+	<w id="0" lex="だ">
+		<w id="1" lex="天気">
+			<w id="2" lex="は">
+				<w id="3" lex="今日" />
+			</w>
+			<w id="4" lex="いい" />
+		</w>
+	</w>
+</mi>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<miml>
+	<doc id="1_00001">
+		<title>ＰＣの起動のしかたを教えてください。</title>
+		<input>ＰＣの起動のしかたを教えてください。</input>
+		<feature type="standard">
+			<kw cat=".usr/2" val="35" />
+			<kw cat=".date" val="20060105" />
+			<kw cat=".usr/1" val="会社員" />
+		</feature>
+		<feature type="keyword">
+			<kw cat=".tkm_ja_base_word.noun.general" val="仕方">
+				<occ id="3" begin="6" end="9" />
+			</kw>
+			<kw cat=".tkm_ja_base_word.noun.general" val="ＰＣ">
+				<occ id="0" begin="0" end="2" />
+			</kw>
+			<kw cat=".tkm_ja_base_phrase.noun-M-pred.noun-M-verb" val="仕方…教える">
+				<occ id="2" begin="6" end="12" />
+			</kw>
+			<kw cat=".tkm_ja_base_word.noun.general" val="起動">
+				<occ id="1" begin="3" end="5" />
+			</kw>
+			<kw cat=".tkm_ja_base_word.verb" val="下さる">
+				<occ id="5" begin="13" end="17" />
+			</kw>
+			<kw cat=".tkm_ja_base_word.verb" val="教える">
+				<occ id="4" begin="10" end="12" />
+			</kw>
+		</feature>
+		<feature type="textlist" xmlns:lal="url:lal">
+			<text name="コメント" begin="0" end="18" />
+		</feature>
+	</doc>
+</miml>

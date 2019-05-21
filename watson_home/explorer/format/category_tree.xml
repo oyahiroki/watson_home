@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category_tree>
+  <node path="_word" name="Part of Speech" editable="false" storePositionAsSubcategory="false">
+    <node path="noun" name="Noun" editable="false" liftup="true">
+      <node path="general" name="General Noun" editable="false" liftup="true"/>
+      <node path="others" name="Others" editable="false" liftup="true"/>
+    </node>
+    <node path="verb" name="Verb" editable="false" liftup="true"/>
+    <node path="adj" name="Adjective" editable="false" liftup="true"/>
+    <node path="adv" name="Adverb" editable="false" liftup="true"/>
+    <node path="conj" name="Conjunction" editable="false" liftup="true"/>
+    <node path="intj" name="Interjection" editable="false" liftup="true"/>
+    <node path="num" name="Numeral" editable="false" liftup="true"/>
+  </node>
+  <node path="_phrase" name="Phrase Constituent" editable="false" storePositionAsSubcategory="false">
+    <node path="noun_phrase" name="Noun Phrase" editable="false" liftup="true">
+      <node path="nouns" name="Noun Sequence" editable="false" liftup="true" visible="false"/>
+      <node path="mod_noun" name="Modified Noun" editable="false" liftup="true"/>
+      <node path="adp_noun" name="Prep Noun" editable="false" liftup="true"/>
+    </node>
+    <node path="pred_phrase" name="Predicate Phrase" editable="false" liftup="true">
+      <node path="adv_pred" name="Predicate with Adverb" editable="false" liftup="true"/>
+      <node path="noun_pred" name="Noun - Predicate" editable="false" liftup="true"/>
+      <node path="verb_noun" name="Verb - Noun" editable="false" liftup="true"/>
+    </node>
+    <node path="conj_phrase" name="Conjunction Phrase" editable="false" liftup="true">
+      <node path="resultative" name="Resultative Conjunction" editable="false" liftup="true"/>
+      <node path="contradictory" name="Contradictory Conjunction" editable="false" liftup="true"/>
+    </node>
+  </node>
+  <node path="_ne" name="Named entity" editable="false">
+    <node path="person" name="Person" editable="false" liftup="true"/>
+    <node path="location" name="Location" editable="false" liftup="true"/>
+    <node path="organization" name="Organization" editable="false" liftup="true"/>
+  </node>
+</category_tree>
