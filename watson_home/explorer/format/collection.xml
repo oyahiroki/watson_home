@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apiResponse
+	xmlns:esadmin="http://www.ibm.com/discovery/es/rest/1.0/admin">
+	<esadmin:collectionConfig>
+		<esadmin:collectionDataDir><![CDATA[C:\Program Files\IBM\es\esadmin\data\sandbox]]></esadmin:collectionDataDir>
+		<esadmin:collectionId>sandbox</esadmin:collectionId>
+		<esadmin:configFile>sandbox_config.ini</esadmin:configFile>
+		<esadmin:description />
+		<esadmin:displayId>sandbox [sandbox]</esadmin:displayId>
+		<esadmin:displayName>sandbox</esadmin:displayName>
+		<esadmin:externalCollection>false</esadmin:externalCollection>
+		<esadmin:flags>32</esadmin:flags>
+		<esadmin:hadoop>false</esadmin:hadoop>
+		<esadmin:indexDataDir><![CDATA[C:\Program Files\IBM\es\esadmin\data\sandbox\indexbuild]]></esadmin:indexDataDir>
+		<esadmin:indexType>3</esadmin:indexType>
+		<esadmin:isPartitioned>false</esadmin:isPartitioned>
+		<esadmin:numPartitions>-1</esadmin:numPartitions>
+		<esadmin:security>false</esadmin:security>
+		<esadmin:type>analytics</esadmin:type>
+	</esadmin:collectionConfig>
+</apiResponse>
